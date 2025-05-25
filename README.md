@@ -5,7 +5,7 @@ This project connects a trained neural network model with the [Udacity Self-Driv
 ## 📦 Project Structure
 
 - `model/model.h5`: Trained Keras model file.
-- `server.py`: Main Python server that receives simulator images, predicts steering angles, and sends control commands back.
+- `drive.py`: Main Python server that receives simulator images, predicts steering angles, and sends control commands back.
 
 ---
 
